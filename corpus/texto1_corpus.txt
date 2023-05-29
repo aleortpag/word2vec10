@@ -1,0 +1,238 @@
+El sentido del cero dentro de las matemáticas ha evolucionado a lo largo de la
+historia. En sistemas de numeración posicionales tan antiguos como el babilonio,
+alrededor del siglo III a. C. se usaba una especie de cero primitivo (un pequeño
+círculo colocado entre dos cifras) que evitaba confusiones en la interpretación
+de cantidades escritas. Por ejemplo, si quisiéramos escribir el número 103,
+podríamos hacerlo usando el círculo en lugar del cero,
+de esta manera: 1○3 (D’Amore y Fandiño, 2014).
+Existían variantes gráficas de dicho cero, entre ellas ganchos y cuñas inclinadas,
+ las cuales se interpretaban como “no hay nada en esta columna”. Su
+función era equivalente a la de signos de puntuación. Además, este tipo de
+“Los ceros también valen”. Conocimientos de alumnos de sexto grado de primaria...
+Educación Matemática, vol. 30, núm. 3, diciembre de 2018 57
+ceros sólo eran usados en medio de las escrituras numéricas y nunca al final
+pues, después de todo, su función era únicamente separar números para
+leerlos correctamente. Kaplan (2004) indica que existían diversas representaciones gráficas para el cero,
+ debido a que su forma y función no estaban
+establecidas de manera definitiva. Transcurrirían algunos milenios para que
+el cero formara parte de la estructura de los sistemas posicionales y fuera
+concebido como número nulo.
+Así, en el 500 d. C, el astrónomo hindú Aryabatha, buscando una forma de
+registrar números grandes, estructuró un sistema de escritura numérico donde
+figura el kha, que se traduce como “lugar”. Esta palabra dio un primer nombre
+al cero, cuya intención era señalar simultáneamente una ausencia y marcar
+una posición que podría ser ocupada por otros números. Esta distinción es
+relevante porque desde ese momento el cero ya no fue usado solamente como
+marca de puntuación que auxilia para interpretar una cantidad, sino que
+también era “un vacío receptor” que con su presencia otorgaba valor a otros
+números (Kaplan, 2004).
+Cabe señalar que el cero seguirá siendo auxiliar para diferenciar cantidades,
+pero a partir de las aportaciones de Aryabatha y otros sabios hindúes empezó
+a cumplir otra función: representar ausencia de un agrupamiento decimal.
+Ambos aspectos son importantes, pero cualitativamente diferentes. Por ejemplo,
+el cero de 103 ayuda a distinguir entre las cantidades 103 y el 13, y también
+representa la ausencia de la agrupación de decenas. Cuando el cero se escribe
+para indicar ese vacío receptor, se llama cero como marca de posición. Estas dos
+funciones han sido respuestas de la humanidad para enfrentar el reto de comunicar ideas numéricas de manera clara y sucinta.
+Como es notable, esas funciones aparecen alejadas una de la otra durante
+un extenso periodo y su sentido como objeto matemático seguiría evolucionado.
+Hacia el año 628 d. C., el matemático y astrónomo Brahmagupta dejó registro
+de cómo efectuar las operaciones de suma, resta, potencias, raíces, etc. Este
+hecho implicó dotar del sentido de “número nulo” al cero. De esta manera, los
+sabios hindúes reunieron dos nociones complejas del cero: la de marca de
+posición y la de nulidad. Con ello, el cero como número permitió el desarrollo
+del álgebra y desempeñó un papel fundamental en otras ramas de las matemáticas (Ifrah, 1987).
+Encontramos en la actualidad propuestas que describen los diferentes roles
+del cero. De acuerdo con Blake y Verhille (1985), el cero ha tenido diversas
+funciones, entre las cuales recuperamos las siguientes:
+Olivia Ávalos Esparza y Diana Violeta Solares Pineda
+58 Educación Matemática, vol. 30, núm. 3, diciembre de 2018
+a) Cero como placeholder: permite guardar un espacio vacío y fue particularmente útil para el registro e interpretación 
+de cantidades y la distinción entre números como 52, 520, 502. Fue usado por culturas como la
+babilónica y la maya.
+b) Cero como variable: se refiere al punto “sunya” de los hindúes, usado
+para representar lo desconocido en una ecuación, hasta que sea ocupado por un número determinado. Coincide con la función de “vacío
+receptor” señalada por Kaplan (2004).
+c) El cero como space filler: los autores identifican distintos usos en esta
+categoría. En términos generales, es el uso del cero para redondear cantidades o para ocupar las columnas que 
+quedan sin cifras al momento
+de resolver algoritmos convencionales (Figura 1, tomada de Blake y Verhille, 1985: 39).
+Figura 1. El cero como space filler. Los ceros se escriben en las columnas de los algoritmos para llenar los 
+espacios vacíos, donde no es necesario el cero para interpretar el
+número.
+Estos autores señalan que algunas de esas funciones se mantienen en prácticas
+escolares. También afirman que algunas de ellas son indistinguibles si se les
+considera de una manera superficial, por lo que es necesario analizar el contexto
+donde el cero escrito es usado, para así tener una comprensión amplia de su
+estructura matemática.
+Por su parte, D’Amore y Fandiño (2014) plantean que, según el área matemática donde se le ubique,
+ el cero puede tener la función de cifra, número
+cardinal y de número ordinal. Sobre el cero cifra, los autores indican: “si consideramos un sistema posicional cualquiera,
+ se llama cero a una de las cifras,
+aquella que sirve para indicar un espacio vacío en la escritura polinominal”
+(D’Amore y Fandiño, 2014: 15). Respecto al cero cardinal, señalan que es el
+cardinal de un conjunto vacío. Estas definiciones pueden ser compatibles con
+las de cero como vacío receptor y el cero que representa ausencia que aparecen
+en nuestra revisión histórica.
+“Los ceros también valen”. Conocimientos de alumnos de sexto grado de primaria...
+Educación Matemática, vol. 30, núm. 3, diciembre de 2018 59
+La diversidad de funciones del cero y las aparentes contradicciones entre
+algunas de ellas son retos que la humanidad tuvo que enfrentar en el transcurso de elaboración de este concepto. 
+Incluso, el lenguaje que usamos
+actualmente en el contexto escolar (tanto en nivel básico como superior) es
+un reflejo de las dificultades históricas que ha tenido la humanidad en dicha
+elaboración (Blake y Verhille, 1985). Tales dificultades guardan cierta proximidad con las que experimentan los niños 
+en sus procesos de apropiación
+del cero como número y, particularmente, como elemento sustancial del
+sistema de numeración decimal.
+Hay diversas investigaciones que abordan la construcción del concepto del
+cero por parte de niños en la etapa preescolar. Como mostraremos más adelante,
+las aportaciones de esos trabajos han sido sumamente relevantes para investigaciones posteriores y para el diseño didáctico. 
+Sin embargo, poco sabemos
+sobre cómo esas concepciones evolucionan a lo largo de la escolaridad básica,
+pues la mayoría de las exploraciones están centradas en niños pequeños. Se
+hace necesario, entonces, analizar el papel que la escuela juega en esos aprendizajes: ¿En qué medida ha contribuido –o no– en 
+la transformación paulatina
+de los conocimientos matemáticos de los alumnos? (en este caso, en la transformación de las nociones iniciales del cero).
+De acuerdo con Martí (2005) existen conocimientos del sistema decimal que,
+por su complejidad, sólo se logran adquirir completamente mediante la enseñanza formal. En el currículo oficial de la educación 
+primaria de México identificamos que, si bien el cero como objeto matemático no es estudiado de manera
+sistemática, a través de las orientaciones didácticas ofrecidas a los docentes (SEP,
+2011), se proponen actividades de reflexión en torno al cero cuando el niño está
+aprendiendo a escribir números con cero intermedio. Asimismo, en los grados
+superiores de primaria se sugiere comparar similitudes y diferencias entre sistemas posicionales y no posicionales, al igual 
+que entre el sistema de numeración
+oral y el escrito.
+En este artículo presentamos los conocimientos sobre el cero que manifestaron 10 alumnos de sexto grado de primaria al 
+resolver determinados cálculos
+aritméticos. Nuestro punto de partida es que, aun cuando el currículo de la
+educación primaria en México no plantea una ruta específica para el tratamiento
+de este número, los estudiantes tienen conocimientos que, al parecer, han construido a partir de su interacción con los 
+números naturales, con el sistema de
+numeración decimal y con los cálculos aritméticos. Tales conocimientos podrían
+estar influenciados tanto por las hipótesis que los niños han hecho respecto al
+Olivia Ávalos Esparza y Diana Violeta Solares Pineda
+60 Educación Matemática, vol. 30, núm. 3, diciembre de 2018
+cero, así como por las actividades y los contenidos con los que han interactuado
+en su trayecto escolar.
+Cabe aclarar que lo que aquí presentamos es parte de un estudio más amplio
+(Ávalos, 2016) en el que nos propusimos identificar los conocimientos de esos
+alumnos respecto al valor posicional. Para ello les planteamos ciertas tareas de
+cálculo aditivo; una de las consignas que les dimos fue que describieran la
+función que le atribuyen al cero al resolver dichas tareas. Centrándonos exclusivamente en ese bloque de resultados de la 
+investigación original, desarrollamos lo que aquí exponemos.
+Los objetivos de este trabajo son, en primer lugar, reportar las funciones
+atribuidas al cero por niños de sexto grado cuando resolvían cálculos y, en
+segundo lugar, analizar el papel de ciertas variables didácticas en los procedimientos de solución de los alumnos.
+Las variables didácticas que caracterizan nuestro instrumento, de las cuales
+queremos conocer el impacto sobre los procedimientos de los niños, son: orden
+de los sumandos, ausencia de algún orden, agrupamiento decimal y cero en el
+resultado.
+Presentamos, en primer lugar, algunas investigaciones sobre cómo los estudiantes interpretan al cero. La revisión de estos 
+antecedentes nos permitió construir un marco de interpretación para los resultados de nuestra propia
+investigación.
+Describimos, posteriormente, la metodología de investigación: el diseño, la
+muestra y el instrumento. Después se exponen los resultados, su interpretación
+y la discusión que establecimos con los estudios de referencia. Por último, en
+las conclusiones desatacamos las respuestas a las preguntas de la investigación
+y los nuevos cuestionamientos que surgen a la luz de nuestros resultados.
+ESTUDIOS QUE INDAGAN CONCEPCIONES DEL CERO EN NIÑOS
+Diversas investigaciones reportan lo que los niños saben sobre el cero, ya sea
+como número o como elemento del sistema de numeración decimal. Presentamos un panorama de las mismas.
+Investigaciones pioneras sobre concepciones del cero reportan que los niños
+en etapa preescolar poseen conocimientos que se traducen en frases como “los
+ceros no son números” o que “no son nada” (Leeb-Lumberg, 1977; Lovell, 1971).
+Estos autores denominan esos saberes misconceptions (concepciones erróneas)
+“Los ceros también valen”. Conocimientos de alumnos de sexto grado de primaria...
+Educación Matemática, vol. 30, núm. 3, diciembre de 2018 61
+y afirman que la prevalencia de los problemas en el aprendizaje de las matemáticas se debe a ellas (Wheeler y Feghali, 1983; 
+Wheelwe, 1987; Carpenter,
+Franke y Levi, 2002, citados en Anthony y Walshaw, 2004).
+Otro conjunto de trabajos tiene una apreciación distinta de los conocimientos
+identificados en los alumnos de preescolar. Trabajos como los de Hughes (1986)
+indican que los niños de esa misma etapa conocen el cero, saben su nombre y
+pueden interpretar que representa ausencia de cantidad. Sin embargo, eso no
+implica que puedan utilizar la notación del cero para representar dicha ausencia,
+como lo documentan García-Milà, Teberosky y Martí (2000).
+Por su parte, Wellman y Miller (1986) reportan que niños preescolares llegan
+a comprender que el cero es un número entre los demás, cuyo valor es “nada”.
+Consideran que ello sienta las bases para la construcción de posteriores conocimientos algebraicos.
+Los trabajos de investigación citados tienen en común haber indagado conocimientos sobre el cero como número. 
+De acuerdo con los últimos, los niños
+desde pequeños pueden interpretar que el cero representa ausencia. Parecen
+coincidir con que estos conocimientos tempranos sientan las bases para el
+desarrollo de saberes matemáticos posteriores. Cabe preguntarnos si esa interpretación despliega nuevos significados y 
+avanza hasta la noción de representar
+ausencia de una posición determinada cuando se trata de analizar el cero en
+la estructura del sistema de numeración decimal.
+En ese sentido, un conjunto de estudios más recientes reporta los conocimientos del cero que emergen en exploraciones 
+cuyo objetivo es, más ampliamente, el sistema de numeración decimal (Lerner, 1992, 1994, 2005; Scheuer,
+Sinclar, Merlo de Rivas, Tièche, 2000; Wolman y Ponce, 2013).
+En lo que respecta a la escritura e interpretación de números, encontramos
+investigaciones que documentan las dificultades que tienen niños mayores para
+escribir números “grandes”. Un trabajo llevado a cabo por Brown (1981) con
+alumnos de nivel secundaria informa que sólo la mitad de los entrevistados
+pudieron escribir correctamente el número “400,073” (four hundred thousand
+and seventy-three, dado que es un estudio de habla inglesa). Resultados similares se reportaron en el trabajo de Crooks y Flockton (2002), quienes señalan
+que de 2,869 estudiantes, solamente 50% de los mayores de 8 años pudieron
+escribir correctamente el número “200,043”.
+Sin embargo, estos trabajos no indagan sobre las justificaciones que los
+estudiantes ofrecen a sus escrituras numéricas. Por el contrario, trabajos como
+los de Lerner (1994), Scheuer, Sinclar, Merlo de Rivas, Tièche, (2000), Wolman y
+Olivia Ávalos Esparza y Diana Violeta Solares Pineda
+62 Educación Matemática, vol. 30, núm. 3, diciembre de 2018
+Ponce (2013) y Centurión y Saiz (2014) sí indagan acerca de las razones que
+justifican la manera no convencional de escribir números. Estos investigadores
+sostienen que los niños han construido hipótesis sobre el funcionamiento del
+sistema de numeración decimal, un hecho que se traduce en reglas de acción
+que les permiten interpretar y producir números cuya escritura convencional
+desconocen.
+Entre ellas destacan la regla de acción construida por los niños que dicta
+que si se quiere tener un número grande, del orden de los millones, deben poner
+más ceros en una escritura numérica (Centurión y Saiz, 2014). También se reporta
+la relevancia que cobra la coma en números mayores (como 3,041,100) para
+ordenar, separar y diferenciar cantidades. Al respecto, una de las reglas de acción
+de los alumnos mayores es que cambiar de lugar la coma en una escritura
+numérica puede hacer que ésta cambie su valor. Es decir, los entrevistados
+elaboraron dos escrituras numéricas que sólo se distinguían entre sí por la
+ubicación de la coma, pero les asignan valores diferentes. Por ejemplo, escribían
+10,000 para diez mil y 1,0000 para un millón. La hipótesis subyacente es que,
+al cambiar la coma de lugar, cambia el número3
+ (Wolman y Ponce, 2013). Si
+bien no todas esas reglas de acción permiten la escritura correcta de números,
+es fundamental reconocer que estos errores forman parte de todo proceso constructivo de conocimiento. Según la Teoría de las Situaciones Didácticas (en
+adelante TSD) los errores son una condición característica, coherente, aunque
+no correcta, de un conocimiento (Brousseau, 2007).
+En esta misma línea de investigación resultó relevante para nuestro trabajo
+el estudio efectuado por Lerner (1992) sobre la función del cero en escrituras
+numéricas, con niños de primero, tercero y quinto grado de primaria.
+La autora planteó una tarea de lectura de números en la cual los alumnos
+tenían que señalar si el cero vale y qué papel juega en escrituras numéricas.
+Llega a la conclusión de que los niños han construido reglas de acción para
+interpretar el cero de acuerdo con su grado de escolaridad. De manera general,
+enumeramos los hallazgos a continuación.
+a) Los alumnos de primer grado de primaria indican que el cero no tiene
+valor, pero no puede suprimirse cuando aparece a la derecha de un
+3 Cabe aclarar que en la investigación referida, originalmente se habla de punto y no de coma, ya que
+en Argentina –y en otros países– el punto tiene la función que en México asignamos a la coma (para
+separar cifras en los números enteros).
+“Los ceros también valen”. Conocimientos de alumnos de sexto grado de primaria...
+Educación Matemática, vol. 30, núm. 3, diciembre de 2018 63
+número. Por ejemplo, un 10 deja de ser diez si eliminamos el 0 a la
+derecha del 1.
+b) Niños de tercero y quinto saben que el valor del cero depende de su
+ubicación en la cadena de números. Argumentan que, aunque el cero
+no vale por sí mismo, es necesario escribirlo. Para ellos el cero sirve
+como diferenciador de cantidades: los ceros valen en tanto que sirven
+para diferenciar números. Ejemplo: si no estuviera un 0 en 103, sería el
+número trece y no el ciento tres.
+c) Según la autora, estos entrevistados han comprendido que el cero escrito en una cantidad indica que no hay elementos correspondientes a esa
+potencia de base. Sus hallazgos contribuyen a considerar que la reconstrucción del cero dentro del sistema posicional es lenta y compleja. En
+muchos casos, los alumnos pueden hacer uso del cero sin que lleguen
+necesariamente a explicitar sus funciones en términos convencionales.
+Como puede apreciarse, hay diversas investigaciones que abordan la construcción
+del concepto del cero por parte de niños en la etapa escolar, y las aportaciones de
+esos trabajos han sido sumamente relevantes para investigaciones posteriores y para
+el diseño didáctico. Sin embargo, salvo por el trabajo de Lerner (1992), poco sabemos
+sobre cómo esas concepciones evolucionan a lo largo de la escolaridad básica,
+pues las exploraciones, en su mayoría, están centradas en niños pequeños.

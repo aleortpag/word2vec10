@@ -1,0 +1,124 @@
+Mindfulness —la práctica de enfocar y sostener la atención
+en el momento presente, sin elaborar juicios de valor— es
+un modelo de intervención psicológica basado en evidencia
+empírica sobre el cual se ha generado un creciente interés
+durante las dos últimas décadas estimulado por el desarrollo
+de las ciencias neurocognitivas. La magnitud de los efectos de
+los dos modelos más importantes de intervención en mindfulness —reducción del estrés basada en mindfulness (MBSR)
+y terapia cognitiva basada en mindfulness (MBCT)— en los
+procesos de regulación emocional y reducción de estrés se
+encuentran activamente en constante proceso de evaluación
+empírica. Los resultados reportados en los últimos 18 estudios de metaanálisis sugieren que ambos modelos modulan
+los procesos de autorregulación emocional y cognitiva bajo
+condiciones de estrés. Específicamente, reportan un efecto
+moderado en síntomas físicos como el dolor, y psicológicos
+como la ansiedad, depresión y distrés emocional. Sin embargo, a pesar de la elevada producción científica, los reportes
+presentan dificultades para interpretar los hallazgos reportados en muchos estudios debido a las limitaciones conceptuales y metodológicas inherentes al desarrollo reciente de esta
+área de investigación. De hecho, una de las limitaciones más
+notorias es la falta de estudios empíricos aleatorizados (randomized controlled trials o RCT’s, por sus siglas en inglés) que
+incluyan a un grupo “activo de comparación”. De igual manera, no existe un claro consenso acerca de los mecanismos
+de acción a través de los cuales esta forma de intervención
+ofrece los beneficios reportados. Por tal motivo, el propósito
+de este artículo-objetivo es presentar una revisión crítica del
+marco conceptual y metodológico de la práctica de mindfulness, así como de sus mecanismos de acción y los resultados
+reportados en 18 estudios de metaanálisis encontrados en la
+literatura científica actual.
+Palabras clave: mindfulness, reducción de estrés, regulación
+emocional, salud
+Mindfulness, emotional self-regulation and stress
+reduction: Science or fiction? Abstract
+Mindfulness -the practice of focusing and sustaining the attention in the present moment without making judgmentsis a clinical intervention of emotional self-regulation and
+stress reduction based on empirical evidence. Interest for
+this intervention model has dramatically grown in the past
+two decades. This increased popularity has been stimulated
+by the advancement of neurocognitive science. Mindfulness
+has been largely conceptualized in terms of self-regulation
+with research studies reporting positive outcomes on mental
+and physical health. The effectiveness on health outcomes of
+the two most important models of intervention: Mindfulness
+Based Stress Reduction (MBSR) and the Mindfulness Based
+Cognitive Therapy (MBCT), are actively being examined by
+meta-analysis studies. Research results on these two forms
+of mindfulness-based interventions for treating a wide range
+of symptoms and mental conditions have shown moderate
+effects. Despite of this burgeoned interest and promising research results, interpretation of these outcomes have been
+difficult and far from straightforward. The challenges encountered in this field of inquiry are due to conceptual and methodological limitations. An equally important topic that requires
+attention is concerned with mechanisms of action that drive
+MBSR and MBCT to positive outcomes. The current literature
+presents several methodological flaws as they relate to control design and comparison conditions. The main purpose of
+this article is to critically review the conceptual framework of
+mindfulness and self-regulation, and its mechanisms of action; also to review the current scientific evidence and effectiveness of MBSR and MBCT based on 18 meta-analisis studies
+currently available in the scientific literature of mindfulness.
+Key words: Mindfulness, stress reduction, emotional regulation, health
+La investigación científica y la práctica clínica
+de mindfulness se encuentran en una etapa de
+enorme productividad empírica. El interés por el
+estudio de esta nueva corriente terapéutica presenta un desarrollo abrumador, particularmente desde el inicio del presente siglo XXI (véase
+figura 1). Por ejemplo, la Asociación Americana de Investigación en Mindfulness (AMRA)
+reportó que entre los años 2015 y 2016 se publicaron 614 y 667 estudios empíricos, respectivamente, lo que significa un crecimiento exponencial en comparación a los años 2000 y 2001,
+en los cuales se divulgaron únicamente 10 y 8
+estudios, respectivamente (Black, 2014). Este
+avance científico y el interés observado por las
+intervenciones contemporáneas de mindfulness
+han experimentado una expansión geográfica
+desde Estados Unidos de Norteamérica hacia
+otras naciones, como Canadá, Australia, Europa
+Occidental y, últimamente, varios países de Latinoamérica, entre ellos México.
+La efervescencia científica y práctica clínica
+de esta línea de estudio ha sido influenciada notoriamente por el desarrollo de las ciencias neurocognitivas y de otras áreas de investigación, las
+cuales tienen un elevado grado de afinidad con el
+estudio y práctica de mindfulness. Un primer factor de influencia está relacionado con el avance
+tecnológico en neuroimágenes, particularmente
+de resonancia magnética funcional (functional
+magnetic resonance imaging o fMRI, por sus siglas en inglés) y de tomografía por emisión de
+positrones (positron emission tomography o PET,
+por sus siglas en inglés), las cuales facilitan el diseño de estudios de investigación científica considerando un conjunto de estructuras cerebrales
+y sus correlatos emocionales, cognitivos y comportamentales (Holzel et al., 2008).
+La segunda causa favorable del auge de
+mindfulness coincide con el estudio y la noción
+de neuroplasticidad, que se refiere a los cambios
+sinápticos e interacciones neuronales en el cerebro generados por cambios en patrones de conducta y entrenamiento mental (Lane & Wager,
+2009). Finalmente, el tercer factor de influencia
+está asociado con la revolución genómica en referencia al concepto epigenética y la importancia
+de la interacción de los factores ambientales en
+los mecanismos genéticos. La epigenética plantea una comprensión amplia de la influencia de
+los factores ambientales sobre la expresión del
+genoma, lo que indica que la interacción de ambos determinan la salud del individuo (Lane &
+Wager, 2009).
+Los efectos positivos de los dos modelos más
+importantes de intervención apoyados en mindfulness —reducción de estrés basada en mindfulness (mindfulness based stress reduction o MBSR,
+por sus siglas en inglés) y terapia cognitiva basada
+en mindfulness (mindfulness based cognitive therapy o MBCT, por sus siglas en inglés)— han sido
+reportados en múltiples tratamientos médicos,
+particularmente relacionados con la reducción
+del estrés y del dolor crónico (Hilton et al., 2017;
+Kabat-Zinn, 1982; Lengacher et al., 2007; Moscoso, Reheiser, & Hann, 2004; Zeidan, Gordon,
+Merchant, & Goolkasian, 2010), y la prevención
+de recaídas depresivas (Segal, Williams, & Teasdale, 2002; Teasdale, Segal, Williams, Ridgeway,
+Soulsby, & Lau, 2000).
+Vol. 10, número 2, 2018 103
+Moscoso: Mindfulness: ¿ciencia o ficción?
+De igual manera, estudios de investigación
+con el modelo MBSR de reducción de estrés
+indican un mejoramiento de las funciones inmunológicas y marcas inflamatorias (Davidson
+et al., 2003; Lengacher et al., 2013; Reich et al.,
+2017), así como elevaciones en los niveles de
+telomerasa en pacientes con cáncer de mama
+(Lengacher et al., 2014).
+Sin embargo, y a pesar del significativo incremento de la producción científica en la última
+década y media, la investigación de mindfulness
+ha tenido dificultades para lograr un consenso
+en torno a su marco conceptual, la medición
+del constructo, los mecanismos de acción que
+expliquen sus efectos saludables, y los aspectos
+metodológicos de las investigaciones y reportes
+publicados a la fecha.
+Planteado lo anterior, se puede indicar que
+el presente artículo tiene tres propósitos claramente establecidos. En primer lugar, ofrecer una
+revisión de los aspectos conceptuales de mindfulness relacionados con la medición de este constructo y su utilización en los programas de entrenamiento. En segundo lugar, realizar un examen
+sistemático de la metodología utilizada en los
+18 estudios de metaanálisis disponibles a la fecha con el propósito de conocer el estado actual
+de los niveles de eficacia de las intervenciones
+basadas en mindfulness. Por último, y en tercer
+lugar, describir los posibles mecanismos de acción explicativos de sus efectos positivos en la
+regulación emocional y en la reducción de estrés
