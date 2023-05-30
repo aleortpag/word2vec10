@@ -44,11 +44,11 @@ def elimina_pairs(lista_tuplas):
 
 ##### main #####
 
+if __name__ : '__main__':
 lista_palabras = tokenizar("archivos/texto1_Corpus.txt")
 lista_tuplas = contar_palabras(lista_palabras)
 lista_tuplas = eliminar_menores_de(lista_tuplas, 10)
 palabras = elimina_pairs(lista_tuplas)
 print(lista_tuplas)
 print(palabras)
-
 ######
