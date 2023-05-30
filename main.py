@@ -94,4 +94,4 @@ if __name__ == "__main__":
 
     # similarity = word_vectors.similarity("cero", "de")
     print(similar_words)
-######
+
