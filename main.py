@@ -10,6 +10,9 @@ from sklearn.metrics import classification_report
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import numpy
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.feature_extraction.text import CountVectorizer
+
 
 
 
@@ -201,6 +204,14 @@ def embeddings(corpus, vectores):
             corpus_embeddings.append(sentence_embedding)
     return corpus_embeddings
 
+def embeddings_NB(corpus, vectores):
+    corpus_texts = []
+    for c in corpus:
+        # Obtener el texto de cada frase sin procesar
+        text = ' '.join(c)
+        corpus_texts.append(text)
+    return corpus_texts
+
 def add_text_to_corpus(corpus,tematica,tematicas):
     new_corpus = tokenizar("corpus/"+tematica+".txt")
     corpus += new_corpus
@@ -247,6 +258,9 @@ def main():
     test_corpus = tokenizar(test_file)
     test_embeddings = embeddings(test_corpus, model.wv)
     total_embeddings = embeddings(corpus, model.wv)
+    
+    X_train_NB = embeddings_NB(corpus, model.wv)
+    X_test_NB = embeddings_NB(test_corpus, model.wv)
 
     # Dividir los datos en conjuntos de entrenamiento y prueba
     X_train = total_embeddings
@@ -255,6 +269,17 @@ def main():
     # Entrenar un modelo de clasificación
     model = LogisticRegression()
     model.fit(X_train, y_train)
+
+    # modelo Naive Bayes multinomial
+    vectorizer = CountVectorizer()
+    X_train_vectorized = vectorizer.fit_transform(X_train_NB)
+    X_test_vectorized = vectorizer.transform(X_test_NB)
+
+    nb_model = MultinomialNB()
+    nb_model.fit(X_train_vectorized, y_train)
+
+    resultado_naive_Bayes = nb_model.predict(X_test_vectorized)
+    print("El resultado de la clasificación con Naive Bayes es: " + resultado_naive_Bayes[0])
 
     # Realizar predicciones en el conjunto de prueba
     resultado_clasificacion = model.predict(test_embeddings)
